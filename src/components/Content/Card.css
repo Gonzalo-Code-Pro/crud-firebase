@@ -1,0 +1,6 @@
+.card{
+      background :red;
+      color:#fff;      
+      display: flex;
+      justify-content: space-between;
+    }
